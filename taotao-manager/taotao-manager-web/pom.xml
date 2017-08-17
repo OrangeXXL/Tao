@@ -17,7 +17,7 @@
 			<artifactId>taotao-manager-service</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
-		<!-- JSP相关 -->
+		<!-- JSP相关-->
 		<dependency>
 			<groupId>jstl</groupId>
 			<artifactId>jstl</artifactId>
